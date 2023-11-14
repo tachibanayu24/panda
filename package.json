@@ -45,7 +45,7 @@
     "husky": "8.0.3",
     "mdx-local-link-checker": "^2.1.1",
     "lint-staged": "13.2.3",
-    "prettier": "^2.8.8",
+    "prettier": "3.0.0",
     "rimraf": "^5.0.1",
     "ts-morph": "19.0.0",
     "tsup": "7.1.0",
